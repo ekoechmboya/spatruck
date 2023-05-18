@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spatruck</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="title_activity_customers_available">CustomersAvailable</string>
+    <string name="title_activity_customer_interface">CustomerInterface</string>
+    <string name="title_activity_customer_registration">CustomerRegistrationActivity</string>
+    <string name="title_activity_customer_dashboard">CustomerDashboard</string>
+    <string name="title_activity_transporter">TransporterActivity</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_transporter_profile">TransporterProfile</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+</resources>

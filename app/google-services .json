@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991430682633",
+    "project_id": "spatruck-f1c0b",
+    "storage_bucket": "spatruck-f1c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991430682633:android:dace3bc841e0205493f0d8",
+        "android_client_info": {
+          "package_name": "com.example.spatruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991430682633-clmlvovpivc1t6e435pojr0vobfelfv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spatruck",
+            "certificate_hash": "96351b9ca3ec1609d5ac755b15c9326c13f05073"
+          }
+        },
+        {
+          "client_id": "991430682633-knro0lihu0dde25svb0usf6v0gp74fqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohXzQUL0sHApz-z6SFmEFJBzwU5pXTKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991430682633-knro0lihu0dde25svb0usf6v0gp74fqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
